@@ -8,6 +8,7 @@ GitHub accounts are considered active if they made at least 100 commits across 2
 If you use this data, please reference:
 >>>>TBA<<<<<
 
+The geocoding pipeline is described here: https://github.com/n1tecki/Geography-of-Open-Source-Software
 
 Notes:
 - NUTS2 regions refer to the 2016 definitions.

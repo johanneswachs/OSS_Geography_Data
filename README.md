@@ -6,7 +6,10 @@ The data consist of geographically aggregated counts of active GitHub accounts a
 GitHub accounts are considered active if they made at least 100 commits across 2019-2020. Accounts were geolocated via the Bing Maps API in early 2021 using data from the GitHub account location field, data from linked Twitter accounts, or email address suffixes (country resolution only), tried in that order. When applicable, the data includes counts of active GitHub accounts identified via each alternative. The data also include population estimates. 
 
 If you use this data, please reference:
->>>>TBA<<<<<
+
+> J. Wachs, M. Nitecki, W. Schueller, A. Polleres. "The Geography of Open Source Software: Evidence from GitHub." Arxiv preprint: 2107.03200. (2021)
+(https://arxiv.org/abs/2107.03200)
+
 
 The geocoding pipeline is described here: https://github.com/n1tecki/Geography-of-Open-Source-Software
 

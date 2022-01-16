@@ -7,8 +7,7 @@ GitHub accounts are considered active if they made at least 100 commits across 2
 
 If you use this data, please reference:
 
-> J. Wachs, M. Nitecki, W. Schueller, A. Polleres. "The Geography of Open Source Software: Evidence from GitHub." Arxiv preprint: 2107.03200. (2021)
-(https://arxiv.org/abs/2107.03200)
+> J. Wachs, M. Nitecki, W. Schueller, A. Polleres. "The Geography of Open Source Software: Evidence from GitHub." Technological Forecasting and Social Change (2022): https://www.sciencedirect.com/science/article/pii/S0040162522000105
 
 
 The geocoding pipeline is described here: https://github.com/n1tecki/Geography-of-Open-Source-Software

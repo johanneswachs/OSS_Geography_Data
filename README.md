@@ -9,10 +9,13 @@ If you use this data, please reference:
 
 > J. Wachs, M. Nitecki, W. Schueller, A. Polleres. "The Geography of Open Source Software: Evidence from GitHub." Technological Forecasting and Social Change (2022): https://www.sciencedirect.com/science/article/pii/S0040162522000105
 
+# Uses:
+World of Open Source, Europe Spotlight 2022, The Linux Foundation: https://www.linuxfoundation.org/research/world-of-open-source-europe-spotlight
 
+# Code:
 The geocoding pipeline is described here: https://github.com/n1tecki/Geography-of-Open-Source-Software
 
-Notes:
+# Notes:
 - NUTS2 regions refer to the 2016 definitions.
 - Within the NUTS2 file the London regions are aggregated into a single region (to be able to resolve the common location of "London").
 
